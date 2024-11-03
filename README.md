@@ -1,4 +1,11 @@
-# theexzone
+# Orbit MTA: Exclusion Zone
+
+## Popis
+MTA: Exclusion Zone je herný mód pre Multi Theft Auto (MTA) inšpirovaný kultovou hrou STALKER. Tento mód kombinuje prvky otvoreného sveta s napätím a atmosférou post-apokalyptického prostredia, kde hráči prežívajú v nebezpečnej zóne plnej anomálií ⚠️, mutantov 👹 a rivalov 🪖.
+
+Hráči budú musieť zbierať zdroje 💰, vyhýbať sa nebezpečenstvám 🌀 a bojovať o prežitie v dynamickom hernom svete. Mód ponúka rôzne misie 🗺️, frakcie 🛡️ a príležitosti na spoluprácu 🤝 alebo súťaž medzi hráčmi, čím prináša autentický zážitok v prostredí inšpirovanom sériou STALKER.
+
+## Setup
 MTA: The Exclusion Zone
 1. Add these lines to acl.xml:
 ```xml
